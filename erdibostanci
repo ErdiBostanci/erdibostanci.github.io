@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <title>Benim Doğrulama Sayfam</title>
+
+  <!-- rel="me" bağlantısı (başlıkta da ekledim) -->
+  <link rel="me" href="https://sosyal.teknofest.app/@erdibostanci">
+</head>
+<body>
