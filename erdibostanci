@@ -3,8 +3,9 @@
 <head>
   <meta charset="utf-8" />
   <title>Benim Doğrulama Sayfam</title>
-
-  <!-- rel="me" bağlantısı (başlıkta da ekledim) -->
   <link rel="me" href="https://sosyal.teknofest.app/@erdibostanci">
 </head>
 <body>
+  <a rel="me" href="https://sosyal.teknofest.app/@erdibostanci">Teknofest Profilim</a>
+</body>
+</html>
